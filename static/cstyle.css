@@ -1,0 +1,300 @@
+.container{
+    border: 0;
+    border-radius: 2px;
+   
+}
+.cont{
+    margin-top: 100px;
+}
+#header{
+background: #E31B23;
+}
+
+#logo{
+    background: rgb(175, 11, 11);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#abc
+{
+    margin-top: 50px;
+    
+}
+#def
+{
+    width: 500px;
+    padding-bottom: 150px;
+    border-radius: 2px;
+    margin-top: 30px;
+}
+#hij
+{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+#bid
+{
+    border-radius: 5px;
+    background-color:#9b1807ea ;
+    
+}
+
+#menu{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: #fff;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    background: rgb(175, 11, 11);
+}
+
+#content{
+    background: white;
+}
+
+#sidebar{
+    background: lightskyblue;
+}
+
+#footer{
+    background: maroon;
+}
+
+body{
+    background-image: url(prism.jpg);
+    
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+#black{
+    color: black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#black:hover{
+    background-color:#0d6efd;
+}
+body
+{
+    background-image: url(prism.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#pqr
+{
+    margin-top: 7px;
+}
+#mno
+{
+   margin-bottom: 3px;
+   margin-top: 5px;
+}
+#gatbl
+{
+    margin-bottom: 10px;
+}
+
+
+#abc
+{
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+   
+    display: inline-flex;
+}
+.head1 .h1{
+    color: black;
+    font-size: 28px;
+    
+    
+}
+.conta
+{
+    margin-top: 100px;
+}
+#hgf
+{
+    height: 300px;
+}
+
+.href
+{
+    margin-top: 150px;
+}
+#xyz
+{
+    height: 300px;
+    
+}
+#bhg
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+#bnm
+{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.Contact
+{
+    margin-top: 100px;
+}
+
+#login{
+    background: #ff0000;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 90%;
+    text-align: center;
+    color: #fff;
+    margin-left: 15px;
+}
+#login:hover{
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px 0 rgba(50,50,93,.18),0 1px 6px 0 rgba(0,0,0,.08)!important;
+    background: #ff3b3b;
+}
+
+#con1{
+    padding-bottom: 10px;
+    border: 0;
+    padding: 10px;
+    padding-top: 0;
+    padding-left: 100px;
+}
+
+#con2{
+    padding-bottom: 10px;
+    border: 0;
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+ table tr td{
+    border: 1px solid black;
+ }
+
+ table th {
+    border: 1px solid black;
+ }
+
+ .card{
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    float: right;
+    margin-top: 80px;
+   
+ }
+
+ .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+ }
+  
+ #try{
+    border: 2px solid #fff;
+    border-radius: 3px;
+    background-color: rgb(107, 124, 147, 0.2);
+    box-shadow: 0 2px 6px rgba(165,165,185,.45);
+    transition: box-shadow .35s ease;
+    display: block;
+    align-content: center;
+    margin: auto;
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+ }
+
+#logo1{
+    height: 170px;
+    width: 170px;
+    border-radius: 100px;
+    display: block;
+    margin: auto;
+}
+
+#img1{
+    height: 100px;
+    width: 100px;
+}
+#img2{
+    height: 95px;
+    width: 95px;
+}
+
+#title{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: x-large;
+}
+
+#greet{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(46, 58, 78);
+    font-family: "Sofia", sans-serif;
+}
+
+.inst{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}
+
+#opt{
+    text-align: center;
+}
+
+#tabs{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+div{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+}
+
+i:hover{
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px 0 rgba(50,50,93,.18),0 1px 6px 0 rgba(0,0,0,.08)!important;
+    color: #3b41ff;
+}
+
+#mar{
+    margin-top: 20px;
+}

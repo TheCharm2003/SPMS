@@ -1,0 +1,181 @@
+.container{
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: white;
+   
+}
+.cont{
+    margin-top: 100px;
+}
+#header{
+background: #E31B23;
+}
+
+#logo{
+    background: rgb(175, 11, 11);
+    color: wheat;
+}
+#abc
+{
+    margin-top: 50px;
+    
+}
+#def
+{
+    width: 500px;
+    padding-bottom: 150px;
+    border-radius: 2px;
+    margin-top: 30px;
+}
+#hij
+{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+#bid
+{
+    border-radius: 5px;
+    background-color:#9b1807ea ;
+    
+}
+
+#menu{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: #fff;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    background: rgb(175, 11, 11);
+}
+
+#content{
+    background: white;
+}
+
+#sidebar{
+    background: lightskyblue;
+}
+
+#footer{
+    background: maroon;
+}
+
+body{
+    background-image: url(prism.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+#black{
+    color: black;
+}
+
+.login
+{
+    margin-top: 100px;
+}
+#pqr
+{
+    margin-top: 7px;
+}
+#mno
+{
+   margin-bottom: 3px;
+   margin-top: 5px;
+}
+#gatbl
+{
+    margin-bottom: 10px;
+}
+
+
+#abc
+{
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+   
+    display: inline-flex;
+}
+.head1 .h1{
+    color: black;
+    font-size: 28px;
+    
+    
+}
+.conta
+{
+    margin-top: 100px;
+}
+#hgf
+{
+    height: 300px;
+}
+
+.href
+{
+    margin-top: 150px;
+}
+#xyz
+{
+    height: 300px;
+    
+}
+#bhg
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+#bnm
+{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.Contact
+{
+    margin-top: 100px;
+}
+
+#login{
+    background: #ff0000;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+ table tr td{
+    border: 1px solid black;
+ }
+
+ table th {
+    border: 1px solid black;
+ }
+
+
+ 
